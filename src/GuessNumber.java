@@ -16,8 +16,7 @@ public class GuessNumber {
 	// "protected" can be used by any other class in this package
 	// default is protected
 	private int lowerLimit = 0;
-	private int upperLimit = 10;
-	
+	private int upperLimit = 10;	
 
 	Random rand = new Random();
 

@@ -42,7 +42,7 @@ notes from start here
 	// we place our "methods" -- these are the worker bees that 
 	// do specific things in our program
 	inclusive first number exclusive second number to avoid overlapping numbers when you stack these
-			System.out.println("your guess is" + guess);
+	System.out.println("your guess is" + guess);
 		
 		
 		System.out.println();
